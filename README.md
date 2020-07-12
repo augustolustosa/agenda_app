@@ -1,16 +1,13 @@
 # agenda_app
 
-A new Flutter project.
+A new simple project of a contact book. You can add/update/delete a contact witch is composed by name, email, phone and picture. 
 
-## Getting Started
+![alt text](https://i.ibb.co/dpThTDw/Captura-de-tela-em-2020-07-12-14-00-52.png)
 
-This project is a starting point for a Flutter application.
+![alt text](https://i.ibb.co/w0DWqCs/Captura-de-tela-em-2020-07-12-14-01-16.png)
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](https://i.ibb.co/SfvJDvj/Captura-de-tela-em-2020-07-12-14-01-24.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![alt text](https://i.ibb.co/JKsG9X1/Captura-de-tela-em-2020-07-12-14-01-35.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://i.ibb.co/PFPCg4X/Captura-de-tela-em-2020-07-12-14-02-02.png)
