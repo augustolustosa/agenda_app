@@ -1,6 +1,6 @@
 # agenda_app
 
-A new simple project of a contact book. You can add/update/delete a contact witch is composed by name, email, phone and picture. 
+A new simpl3 project of a contact book. You can add/update/delete a contact witch is composed by name, email, phone and picture. 
 
 ![alt text](https://i.ibb.co/dpThTDw/Captura-de-tela-em-2020-07-12-14-00-52.png)
 
